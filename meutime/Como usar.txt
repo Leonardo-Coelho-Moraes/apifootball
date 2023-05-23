@@ -1,0 +1,6 @@
+Olá, Meu nome é Leonardo 
+1 - para fazer uso do projeto basta você instalar o pacote npm no computador verifique o youtube;
+2 - com ele já instalado clique na pasta com o botão direito do mouse sobre a pasta enquanto segura a tecla shift e selecione abrir pasta com PowerShell, em outro sistema operacional basta acessar a pasta pelo centro de comando do computador;
+3 - com a pasta já aberta no PowerShell digite "npm start" sem as aspas e precione a tecla enter, o computador vai abrir um servidor na maquina local através do navegador;
+4 - por fim para usar basta sua key da FootBall API e fazer as seleções no formulário.
+Obs: Projeto aberto para melhorias, pode pegar o código para finalidade que quiser, sempre contribua com as comunidades enviando os projetos atualizados com sua versão =);
